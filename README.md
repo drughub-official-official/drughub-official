@@ -27,4 +27,6 @@ When exploring this darknet marketplace, prioritize your security and take neces
 
 
 
-Update:  21.07.2025 Fixed inaccessible link
+
+
+Update:  24 July 2025 Fixed broken link, now accessible and live
