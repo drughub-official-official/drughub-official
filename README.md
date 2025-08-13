@@ -31,4 +31,6 @@ When exploring this darknet marketplace, prioritize your security and take neces
 
 
 
-Update:  04 August url is operational
+
+
+Update:  13 August URLs repaired
